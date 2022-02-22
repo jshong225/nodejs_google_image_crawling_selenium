@@ -7,7 +7,15 @@
     "start": "node index.js",
     "test": "jest"
   },
-  "author": "ppojun. <120106@naver.com>",
+  "author": {
+    "name": "ppojun",
+    "email": "120106@naver.com",
+    "url": "https://github.com/ppojun/nodejs_google_image_crawling_selenium"
+  },
+  "bugs": {
+    "url": "https://github.com/ppojun/nodejs_google_image_crawling_selenium/issues",
+    "email": "120106@naver.com"
+  },
   "license": "MIT License",
   "dependencies": {
     "https": "^1.0.0",
