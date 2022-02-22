@@ -10,7 +10,7 @@
   "author": {
     "name": "ppojun",
     "email": "120106@naver.com",
-    "url": "https://github.com/ppojun/nodejs_google_image_crawling_selenium"
+    "url": "https://github.com/ppojun"
   },
   "bugs": {
     "url": "https://github.com/ppojun/nodejs_google_image_crawling_selenium/issues",
@@ -20,5 +20,9 @@
   "dependencies": {
     "https": "^1.0.0",
     "selenium-webdriver": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppojun/nodejs_google_image_crawling_selenium"
   }
 }
