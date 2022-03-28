@@ -2,6 +2,11 @@
 
 ![License](https://img.shields.io/badge/Licence-MIT-blue.svg)
 
+개인 프로젝트 도중 이미지 크롤링이 필요하게되어 찾던중  
+파이썬&셀레니움의 구글 이미지 크롤링은 많으나  
+제가 좋아하는 노드와 셀레니움 조합의 구글 이미지 크롤링은 레퍼런스를 찾지 못해 개발했습니다.  
+필요하신분 쓰세요!
+
 Google Image Crawling on NodeJS with Selenium
 
 ## Requirements(Recommand)
