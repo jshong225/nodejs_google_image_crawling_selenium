@@ -22,7 +22,7 @@ These are the versions I used.
 
 1. Install `NodeJS` `https://nodejs.org/ko/`
 2. Clone or Download this code
-   `git clone https://github.com/ppojun/nodejs_google_image_crawling_selenium`
+   `git clone https://github.com/jshong225/nodejs_google_image_crawling_selenium`
 3. Download chromedriver(Make it the same as your Chrome version.) and put where you downloaded this code.
 4. Open file index.js
 5. Change the last line to the word you want to search for.
@@ -30,17 +30,12 @@ These are the versions I used.
 7. Run `npm i selenium-webdriver` on terminal
 8. Run `npm start` or `node index.js` on terminal
 
-## Contact
-
-You can contact me via e-mail (120106@naver.com or hka120106@gmail.com).
-
 ## License
 
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT)
 
-Copyright &copy; 2022 ppojun
+Copyright &copy; 2022 js_hong
 
-- [JS Hong](https://github.com/ppojun)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
